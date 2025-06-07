@@ -3,6 +3,7 @@
 このリポジトリでは、『進化論の観点から孤独感研究を行うための計算論的枠組み』で用いたコードを共有しています。
 
 以下をクリックいただくとGoogle Colabで開くことができます。ただし、シミュレーションの実行に関しては、国里の環境で29時間程度かかっているので、Google Colabで実行するのは難しいかもしれません。
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ykunisato/Active-inference-based-toy-model-for-loneliness-ABM/blob/main/loneliness_aif_abm.ipynb)
 
 
